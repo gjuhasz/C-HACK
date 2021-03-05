@@ -30,5 +30,8 @@ Notebooks were written using versions of Python > 3.6 and requires these package
 - [matplotlib](https://matplotlib.org/stable/index.html)
 - [ipywidgets](https://ipywidgets.readthedocs.io/en/latest/)
 
+## Videos
+[YouTube playlist](https://youtube.com/playlist?list=PLAJ90WnjdX5P_ZFJvM3rsTGiNOdotYnPx)
+
 ## License
 [Apache License 2.0](LICENSE)
